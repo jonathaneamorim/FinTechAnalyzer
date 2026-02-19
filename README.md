@@ -80,3 +80,17 @@ Comparação automática considerando liquidez e impostos.
 
 Calculadora de aposentadoria real (descontada pela inflação)
 Poucos apps fazem isso corretamente.
+
+
+## Links
+- https://dadosabertos.bcb.gov.br/dataset/dolar-americano-usd-todos-os-boletins-diarios
+- https://dadosabertos.bcb.gov.br/dataset/?tags=indicadores+de+cr%C3%A9dito
+- https://dadosabertos.bcb.gov.br/dataset/20716-taxa-media-de-juros-das-operacoes-de-credito---pessoas-fisicas---total
+- https://openbanking-brasil.github.io/areadesenvolvedor/versions/v1.0.0-rc/index.html#introducao-extensibilidade
+- https://www.bcb.gov.br/resultadobusca?termo=api&source=
+- https://api.bcb.gov.br/dados/serie/bcdata.sgs.11/dados?formato=json&dataInicial=18/02/2016&dataFinal=18/02/2026
+- https://dadosabertos.bcb.gov.br/dataset/11-taxa-de-juros---selic
+- https://api.bcb.gov.br/dados/serie/bcdata.sgs.11/dados/ultimos/10?formato=json
+- https://dadosabertos.bcb.gov.br/dataset/11-taxa-de-juros---selic/resource/b73edc07-bbac-430c-a2cb-b1639e605fa8#:~:text=Banco%20Central%20do%20Brasil%20*%20BCB/Demab.%20*%20Taxa%20de%20juros%20%2D%20Selic.%20*%20json_serie%2Dsgs%2D11. 
+- https://economia.awesomeapi.com.br/last/USD-BRL,EUR-BRL,BTC-BRL
+- https://awesomeapi.com.br/
